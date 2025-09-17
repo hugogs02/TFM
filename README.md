@@ -5,16 +5,16 @@ Este código está compuesto por un archivo que realiza un EDA de los datos y lo
 
 Para la ejecución correcta del código, son necesarios los siguientes paquetes en las siguientes versiones:
 
-numpy==1.26.4
-pandas==2.3.2
-matplotlib==3.10.6
-seaborn==0.13.2
-scikit-learn==1.7.1
-xgboost==3.0.5
-lightgbm==4.6.0
-tensorflow==2.17.1
-keras==3.11.3
-statsmodels==0.14.5
-scipy==1.16.1
-joblib==1.5.2
-tqdm==4.67.1
+- **numpy** == 1.26.4
+- **pandas** == 2.3.2
+- **matplotlib** == 3.10.6
+- **seaborn** == 0.13.2
+- **scikit-learn** == 1.7.1
+- **xgboost** == 3.0.5
+- **lightgbm** == 4.6.0
+- **tensorflow** == 2.17.1
+- **keras** == 3.11.3
+- **statsmodels** == 0.14.5
+- **scipy** == 1.16.1
+- **joblib** == 1.5.2
+- **tqdm** == 4.67.1
